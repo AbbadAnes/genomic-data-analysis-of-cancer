@@ -33,17 +33,17 @@ la on voit que le meilleiur gène "ENS" qui a obtenu le score le plus élevé et
   <br><br>
   <img src="https://zestedesavoir.com/media/galleries/3985/5128cf36-de17-4ebb-9495-90c9d85f006f.png" width="350" title="hover text">
 </p>
-## Performance 
-## Accuracy 
+<h1>Performance</h1> 
+<h2>Accuracy</h2>
 Accuracy = # prédictions correctes / # prédictions totales
 <br>
 <strong> Accuracy = 98% </strong>
-## Courbe d'apprentissage
-<h5>En fonction des gènes</h5>
+<h2>Courbe d'apprentissage</h2>
+<h4>En fonction des gènes</h4>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/g%C3%A8nes.png" title="learning curve">
 </p>
-<h5>En fonction des patients</h5>
+<h4>En fonction des patients</h4>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" title="learning curve">
 </p>

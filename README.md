@@ -11,7 +11,7 @@ of genes, which makes the classification of cancer types difficult.
 The purpose of the project is to complete clinical diagnoses by classifying cancerous tumors from their genetic expressions, using statistical methods and machine learning.
 <h2> Tools : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
-<h2>Données</h2>
+<h2>Données :</h2>
 56,000 genes
 6700 Patients
 <h2> Treated cancers </h2>

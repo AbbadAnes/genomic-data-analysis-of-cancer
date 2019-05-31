@@ -3,7 +3,6 @@
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/10.logo-ueve.jpg" width="50%" title="logo">
 </p>
 
-717/5000
 Some genes, which play a regular role throughout our lives, can
 mutate. This disturbance is sufficient for the appearance of cancer cells, which makes
 

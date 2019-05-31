@@ -1,5 +1,17 @@
 <h1>Genomic-data-analysis-of-cancer</h1>
-Utilisation des données génétiques des patients pour prédire les types de cancer
+Certains gènes, qui jouent un rôle ordinaire tout au long de notre vie, peuvent
+muter. Ce dérèglement suffit à l’apparition des cellules cancéreuses, ce qui rend
+
+l’expression génétique un élément très important dans le diagnostique des mala-
+dies néoplasiques.
+
+Aujourd’hui il est possible de prédire le type des cellules cancéreuses en se basant
+sur leurs expressions génétiques, or les tumeurs produisent une énorme quantité
+de gènes, ce qui rend la classification de ces dernières difficile.
+Le but du projet consiste à compléter les diagnostics cliniques en classifiant les
+
+tumeurs cancéreuses à partir de leurs expressions génétiques, en utilisant les mé-
+thodes statistiques et d’apprentissage automatique.
 <h2> Basé Sur : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <h2>Données</h2>

@@ -75,3 +75,17 @@ Accuracy = # prédictions correctes / # prédictions totales
 2. Dans le dossier R vous trouverez les scripts nécessaires pour récuperer les données à partir de la platforme TCGA
 <br>
 3. Dans le dossier Python vous trouvez un fichier visualisation.py pour visulaiser les données, et un deuxième fichier implementation.py qui contient toutes les étapes de la réalisation du projet.
+<h2>Contribution et Remerciement</h2>
+<h3>Projet réalisé par :</h3>
+- Anes Abdelfatah ABBAD.
+<br>
+- Amira KETFI
+<br>
+- Pape Wade DAOUDA
+<br>
+<h3>Encadré Par :</h3>
+- Blaise Hanczar.
+<h3>Remerciement</h3>
+ - Houda ABBAD.
+ <br>
+ - Ahmed SAADALLAH

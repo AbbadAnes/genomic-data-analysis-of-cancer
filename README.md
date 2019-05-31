@@ -12,7 +12,7 @@ Le but du projet consiste à compléter les diagnostics cliniques en classifiant
 
 tumeurs cancéreuses à partir de leurs expressions génétiques, en utilisant les mé-
 thodes statistiques et d’apprentissage automatique.
-<h2> Basé Sur : </h2>
+<h2> Outils : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <h2>Données</h2>
 56,000 gènes

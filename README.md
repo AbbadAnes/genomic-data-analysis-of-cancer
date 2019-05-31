@@ -45,7 +45,7 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 </p>
 
 
-we see that the highest "ENS00000" gene that has obtained the highest score and therefore (the smallest P-value) is not used to predict the different types of cancer, but rather it is the preaching predictor of "LGG" cancer ( low grade giloma)
+we see that the highest "ENS00000105605" gene that has obtained the highest score and therefore (the smallest P-value) is not used to predict the different types of cancer, but rather it is the preaching predictor of "LGG" cancer ( low grade giloma)
 
 <h1>Learning</h1>
 <h2>Algorithm</h2>

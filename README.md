@@ -2,57 +2,60 @@
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/10.logo-ueve.jpg" width="50%" title="logo">
 </p>
-Certains gènes, qui jouent un rôle ordinaire tout au long de notre vie, peuvent
-muter. Ce dérèglement suffit à l’apparition des cellules cancéreuses, ce qui rend
 
-l’expression génétique un élément très important dans le diagnostique des mala-
-dies néoplasiques.
+717/5000
+Some genes, which play a regular role throughout our lives, can
+mutate. This disturbance is sufficient for the appearance of cancer cells, which makes
 
-Aujourd’hui il est possible de prédire le type des cellules cancéreuses en se basant
-sur leurs expressions génétiques, or les tumeurs produisent une énorme quantité
-de gènes, ce qui rend la classification de ces dernières difficile.
-Le but du projet consiste à compléter les diagnostics cliniques en classifiant les
+gene expression is a very important element in the diagnosis of
+neoplastic diseases.
 
-tumeurs cancéreuses à partir de leurs expressions génétiques, en utilisant les mé-
-thodes statistiques et d’apprentissage automatique.
-<h2> Outils : </h2>
+Today it is possible to predict the type of cancer cells based on
+on their genetic expressions but tumors produce a huge amount
+of genes, which makes the classification of cancer types difficult.
+The purpose of the project is to complete clinical diagnoses by classifying
+
+cancerous tumors from their genetic expressions, using statistical methods and machine learning.
+<h2> Tools : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <h2>Données</h2>
-56,000 gènes
+56,000 genes
 6700 Patients
-<h2>Cancers traités</h2>
-- Cancer du sein
+<h2> Treated cancers </h2>
+- Breast cancer
 <br>
-- Cancer du Prostate
+- Prostate cancer
 <br>
-- Cancer de la peau
+- Skin cancer
 <br>
-- Cancer du paumon
+- Cancer of the paumon
 <br>
-- Cancer de la Bouche
+- Mouth cancer
 <br>
-- Cancer de la vessie
+- Bladder cancer
 <br>
-- Cancer de la thyroide
+- Thyroid cancer
 <br>
-- Cancer des bronches et du poumon
+- Bronchial and lung cancer
 <br>
-- Gilomes de bas grade
+- Low grade gongomas
 <br>
-- Cancer du rein
+- Kidney cancer
 <br>
-<h1>Analyse de données</h1>
-<h2>Analyse de la variance ( ANOVA )</h2>
-<p> 
- En utilisant le test statistique ANOVA nous avons réussi à extraire les meilleurs gènes pour prédire au mieux le type de cancer d'un patient
+<h1> Data Analysis </h1>
+<h2> Analysis of variance (ANOVA) </h2>
+<p>
+  Using the ANOVA statistical test we managed to extract the best genes to better predict the cancer type of a patient
 </p>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/best.png" title="learning curve">
 </p>
-la on voit que le meilleiur gène "ENS" qui a obtenu le score le plus élevé et donc ( la plus petite P-value ) ne sert pas à prédire les differents types de cancers mais plutot c'est prédicteur prafait du cancer "LGG" ( gilome du bas grade )
 
-<h1>Apprentissage</h1>
-<h2>Algorithme utilisé</h2>
+237/5000
+we see that the highest "ENS" gene that has obtained the highest score and therefore (the smallest P-value) is not used to predict the different types of cancer, but rather it is the preaching predictor of "LGG" cancer ( low grade giloma)
+
+<h1>Learning</h1>
+<h2>Algorithm</h2>
 <p align="center">
   SVM ( Support Vector Machine )
   <br><br>
@@ -60,35 +63,35 @@ la on voit que le meilleiur gène "ENS" qui a obtenu le score le plus élevé et
 </p>
 <h1>Performance</h1> 
 <h2>Accuracy</h2>
-Accuracy = # prédictions correctes / # prédictions totales
+Accuracy = # correct predictions / # total predictions
 <br>
 <strong> Accuracy = 98% </strong>
-<h2>Courbes d'apprentissage</h2>
-<h4>En fonction des gènes</h4>
+<h2>Learning curves</h2>
+<h4>Depending on the genes/h4>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/g%C3%A8nes.png" title="learning curve">
 </p>
-<h4>En fonction des patients</h4>
+<h4>Depending on the patients</h4>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" title="learning curve">
 </p>
-<h2>Comment utiliser le code ?</h2>
-1. Clonez le projet et decompressez code.rar
+<h2>how to use the code?</h2>
+1. Clone the project and uncompress code.rar
 <br>
-2. Dans le dossier R vous trouverez les scripts nécessaires pour récuperer les données à partir de la platforme TCGA
+2. In the R folder you will find the necessary scripts to get the data from the TCGA platform
 <br>
-3. Dans le dossier Python vous trouvez un fichier visualisation.py pour visulaiser les données, et un deuxième fichier implementation.py qui contient toutes les étapes de la réalisation du projet.
-<h2>Contribution et Remerciement</h2>
-<h3>Projet réalisé par :</h3>
+3. In the Python folder you find a visualization.py file to visualize the data, and a second implementation.py file that contains all the steps of the project.
+<h2> Contributionz</ h2>
+<h3> Project realized by: </ h3>
 - Anes Abdelfatah ABBAD.
 <br>
 - Amira KETFI.
 <br>
-- Pape Wade DAOUDA
+- Pope Wade DAOUDA
 <br>
-<h3>Encadré Par :</h3>
+<h3> Supervised By: </h3>
 - Blaise Hanczar.
-<h3>Remerciement</h3>
- - Houda ABBAD.
- <br>
- - Ahmed SAADALLAH
+<h3> Thank's to </h3>
+  - Houda ABBAD.
+  <br>
+  - Ahmed SAADALLAH

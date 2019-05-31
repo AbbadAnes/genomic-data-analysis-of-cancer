@@ -75,7 +75,7 @@ Accuracy = # correct predictions / # total predictions
 <br>
 3. In the Python folder you find a visualization.py file to visualize the data, and a second implementation.py file that contains all the steps of the project.
 <h2> Contributions</h2>
-<h3> Project realized by: </ h3>
+<h3> Project realized by: </h3>
 - Anes Abdelfatah ABBAD.
 <br>
 - Amira KETFI.

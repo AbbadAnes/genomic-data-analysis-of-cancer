@@ -82,7 +82,7 @@ Accuracy = # prédictions correctes / # prédictions totales
 <h3>Projet réalisé par :</h3>
 - Anes Abdelfatah ABBAD.
 <br>
-- Amira KETFI
+- Amira KETFI.
 <br>
 - Pape Wade DAOUDA
 <br>

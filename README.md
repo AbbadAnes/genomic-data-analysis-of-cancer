@@ -60,7 +60,7 @@ Accuracy = # correct predictions / # total predictions
 <br>
 <strong> Accuracy = 98% </strong>
 <h2>Learning curves</h2>
-<h4>Depending on the genes/h4>
+<h4>Depending on the genes</h4>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/g%C3%A8nes.png" title="learning curve">
 </p>
@@ -74,7 +74,7 @@ Accuracy = # correct predictions / # total predictions
 2. In the R folder you will find the necessary scripts to get the data from the TCGA platform
 <br>
 3. In the Python folder you find a visualization.py file to visualize the data, and a second implementation.py file that contains all the steps of the project.
-<h2> Contributionz</ h2>
+<h2> Contributions</h2>
 <h3> Project realized by: </ h3>
 - Anes Abdelfatah ABBAD.
 <br>

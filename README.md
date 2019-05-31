@@ -1,11 +1,11 @@
-# genomic-data-analysis-of-cancer
+<h1>Genomic-data-analysis-of-cancer</h1>
 Utilisation des données génétiques des patients pour prédire les types de cancer
-## Basé Sur : 
+<h2> Basé Sur : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
-## Données
+<h2>Données</h2>
 56,000 gènes
 6700 Patients
-## cancers traités
+<h2>Cancers traités</h2>
 - Cancer du sein
 - Cancer du Prostate
 - Cancer de la peau
@@ -16,8 +16,8 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 - Cancer des bronches et du poumon
 - Gilomes de bas grade
 - Cancer du rein
-## Analyse de données
-## Analyse de la variance ( ANOVA )
+<h1>Analyse de données</h1>
+<h2>Analyse de la variance ( ANOVA )</h2>
 <p> 
  En utilisant le test statistique ANOVA nous avons réussi à extraire les meilleurs gènes pour prédire au mieux le type de cancer d'un patient
 </p>
@@ -26,8 +26,8 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 </p>
 la on voit que le meilleiur gène "ENS" qui a obtenu le score le plus élevé et donc ( la plus petite P-value ) ne sert pas à prédire les differents types de cancers mais plutot c'est prédicteur prafait du cancer "LGG" ( gilome du bas grade )
 
-## Apprentissage
-## Algorithme utilisé
+<h1>Apprentissage</h1>
+<h2>Algorithme utilisé</h2>
 <p align="center">
   SVM ( Support Vector Machine )
   <br><br>

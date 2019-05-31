@@ -4,17 +4,11 @@
 </p>
 
 Some genes, which play a regular role throughout our lives, can
-mutate. This disturbance is sufficient for the appearance of cancer cells, which makes
-
-gene expression is a very important element in the diagnosis of
-neoplastic diseases.
-
+mutate. This disturbance is sufficient for the appearance of cancer cells, which makes gene expression is a very important element in the diagnosis of neoplastic diseases.
 Today it is possible to predict the type of cancer cells based on
 on their genetic expressions but tumors produce a huge amount
 of genes, which makes the classification of cancer types difficult.
-The purpose of the project is to complete clinical diagnoses by classifying
-
-cancerous tumors from their genetic expressions, using statistical methods and machine learning.
+The purpose of the project is to complete clinical diagnoses by classifying cancerous tumors from their genetic expressions, using statistical methods and machine learning.
 <h2> Tools : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <h2>Données</h2>
@@ -27,7 +21,7 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <br>
 - Skin cancer
 <br>
-- Cancer of the paumon
+- Lung cancer
 <br>
 - Mouth cancer
 <br>

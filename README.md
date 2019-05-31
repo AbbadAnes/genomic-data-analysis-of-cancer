@@ -16,13 +16,23 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 - Cancer des bronches et du poumon
 - Gilomes de bas grade
 - Cancer du rein
+## Analyse de données
+## Analyse de la variance ( ANOVA )
+<p> 
+ En utilisant le test statistique ANOVA nous avons réussi à extraire les meilleurs gènes pour prédire au mieux le type de cancer d'un patient
+</p>
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/best.png" title="learning curve">
+</p>
+la on voit que le meilleiur gène "ENS" qui a obtenu le score le plus élevé et donc ( la plus petite P-value ) ne sert pas à prédire les differents types de cancers mais plutot c'est prédicteur prafait du cancer "LGG" ( gilome du bas grade )
+
+## Apprentissage
 ## Algorithme utilisé
 <p align="center">
   SVM ( Support Vector Machine )
   <br><br>
   <img src="https://zestedesavoir.com/media/galleries/3985/5128cf36-de17-4ebb-9495-90c9d85f006f.png" width="350" title="hover text">
 </p>
-
 ## Performance 
 ## Accuracy 
 Accuracy = # prédictions correctes / # prédictions totales

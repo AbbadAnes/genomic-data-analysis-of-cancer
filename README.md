@@ -17,7 +17,11 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 - Gilomes de bas grade
 - Cancer du rein
 ## Algorithme utilisé
-<center>SVM ( Support Vector Machine )</center>
 <p align="center">
+  SVM ( Support Vector Machine )
   <img src="https://zestedesavoir.com/media/galleries/3985/5128cf36-de17-4ebb-9495-90c9d85f006f.png" width="350" title="hover text">
 </p>
+## Performance 
+### Accuracy 
+Accuracy = # prédictions correctes / # prédictions totales
+<strong> Accuracy = 98% </strong>

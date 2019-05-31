@@ -32,6 +32,6 @@ Accuracy = # prédictions correctes / # prédictions totales
 ### en fonction des gènes
 ### en fonction des patients
 <p align="center">
-  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" width="350" title="hover text">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" title="learning curve">
 </p>
 

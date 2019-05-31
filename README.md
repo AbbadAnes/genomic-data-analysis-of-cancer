@@ -60,7 +60,7 @@ la on voit que le meilleiur gène "ENS" qui a obtenu le score le plus élevé et
 Accuracy = # prédictions correctes / # prédictions totales
 <br>
 <strong> Accuracy = 98% </strong>
-<h2>Courbe d'apprentissage</h2>
+<h2>Courbes d'apprentissage</h2>
 <h4>En fonction des gènes</h4>
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/g%C3%A8nes.png" title="learning curve">
@@ -69,4 +69,9 @@ Accuracy = # prédictions correctes / # prédictions totales
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" title="learning curve">
 </p>
-
+<h2>Comment utiliser le code ?</h2>
+1. Clonez le projet et decompressez code.rar
+<br>
+2. Dans le dossier R vous trouverez les scripts nécessaires pour récuperer les données à partir de la platforme TCGA
+<br>
+3. Dans le dossier Python vous trouvez un fichier visualisation.py pour visulaiser les données, et un deuxième fichier implementation.py qui contient toutes les étapes de la réalisation du projet.

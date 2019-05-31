@@ -19,5 +19,5 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 ## Algorithme utilisé
 SVM ( Support Vector Machine )
 <p align="center">
-  <img src="https://drive.google.com/file/d/12LYjlfHK6P1kFwykarOXOcnoTIWz7h7X/view?usp=sharing" width="350" title="hover text">
+  <img src="https://zestedesavoir.com/media/galleries/3985/5128cf36-de17-4ebb-9495-90c9d85f006f.png" width="350" title="hover text">
 </p>

@@ -16,3 +16,8 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 - Cancer des bronches et du poumon
 - Gilomes de bas grade
 - Cancer du rein
+## Algorithme utilisé
+SVM ( Support Vector Machine )
+<p align="center">
+  <img src="https://drive.google.com/file/d/12LYjlfHK6P1kFwykarOXOcnoTIWz7h7X/view?usp=sharing" width="350" title="hover text">
+</p>

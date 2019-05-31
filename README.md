@@ -28,3 +28,10 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 Accuracy = # prédictions correctes / # prédictions totales
 <br>
 <strong> Accuracy = 98% </strong>
+## Courbe d'apprentissage
+### en fonction des gènes
+### en fonction des patients
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" width="350" title="hover text">
+</p>
+

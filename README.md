@@ -7,15 +7,25 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 6700 Patients
 <h2>Cancers traités</h2>
 - Cancer du sein
+<br>
 - Cancer du Prostate
+<br>
 - Cancer de la peau
+<br>
 - Cancer du paumon
+<br>
 - Cancer de la Bouche
+<br>
 - Cancer de la vessie
+<br>
 - Cancer de la thyroide
+<br>
 - Cancer des bronches et du poumon
+<br>
 - Gilomes de bas grade
+<br>
 - Cancer du rein
+<br>
 <h1>Analyse de données</h1>
 <h2>Analyse de la variance ( ANOVA )</h2>
 <p> 

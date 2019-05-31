@@ -29,8 +29,11 @@ Accuracy = # prédictions correctes / # prédictions totales
 <br>
 <strong> Accuracy = 98% </strong>
 ## Courbe d'apprentissage
-### en fonction des gènes
-### en fonction des patients
+### En fonction des gènes
+<p align="center">
+  <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/g%C3%A8nes.png" title="learning curve">
+</p>
+### En fonction des patients
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" title="learning curve">
 </p>

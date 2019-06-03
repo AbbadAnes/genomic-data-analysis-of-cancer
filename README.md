@@ -29,7 +29,7 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <br>
 - Thyroid cancer
 <br>
-- Bronchial and lung cancer
+- Bronchial and lung cancer.
 <br>
 - Low grade gongomas
 <br>

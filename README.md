@@ -8,7 +8,7 @@ mutate. This disturbance is sufficient for the appearance of cancer cells, which
 Today it's possible to predict the type of cancer cells based on
 on their genetic expressions.<br> but tumors produce a huge quantity
 of genes, which makes the classification of cancer types difficult.
-The purpose of the project is to complete clinical diagnoses by classifying cancerous tumors from their genetic expressions, using statistical methods and machine learning.
+The purpose of this project is to complete clinical diagnoses by classifying cancerous tumors from their genetic expressions, using statistical methods and machine learning.
 <h2> Tools : </h2>
 Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <h2>Données :</h2>
@@ -45,7 +45,7 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 </p>
 
 
-we see that "ENS00000105605" gene that has obtained the highest score and therefore (the smallest P-value) isn't used to predict the different types of cancer, but rather it's the preaching predictor of "LGG" cancer ( low grade giloma)
+as we can see, that "ENS00000105605" gene obtained the highest score and therefore (the smallest P-value) but it's not used to predict the different types of cancer, but rather it's the preaching predictor of "LGG" cancer ( low grade giloma)
 
 <h1>Learning</h1>
 <h2>Algorithm</h2>
@@ -68,7 +68,7 @@ Accuracy = # correct predictions / # total predictions
 <p align="center">
   <img src="https://storage.googleapis.com/kainofreelancerpictures/anes/PATIENT.png" title="learning curve">
 </p>
-<h2>how to use the code?</h2>
+<h2>how to use the code ?</h2>
 1. Clone the project and unzip code.rar
 <br>
 2. In the R folder you will find the necessary scripts to get the data from the TCGA platform

@@ -33,7 +33,7 @@ Python ( Sickit-Learn ) , R , Atlas Data, The Cancer Genome Atlas Program
 <br>
 - Low grade gongomas
 <br>
-- Kidney cancer
+- Kidney cancer.
 <br>
 <h1> Data Analysis </h1>
 <h2> Analysis of variance (ANOVA) </h2>
